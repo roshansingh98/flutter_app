@@ -1,16 +1,9 @@
-# flutter_app
+# flutter_app[i_am_rich_app]
 
-A new Flutter application.
+A new Flutter application. Trial flutter app. This is based on the project provided on the udemy flutter course.
 
-## Getting Started
+Also a part of my 100 days of flutter development challenge.
 
-This project is a starting point for a Flutter application.
+Day 1: Introduction to flutter and creating the i_am_rich app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Day 2: Pushing the code of the completed app to the github.
